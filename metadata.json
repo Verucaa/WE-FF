@@ -1,0 +1,5 @@
+{
+  "name": "Najmi Emote Tool",
+  "description": "A specialized FF Emote automation tool with server management, multi-UID support, and a comprehensive admin panel for configuration.",
+  "requestFramePermissions": []
+}
