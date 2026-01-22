@@ -25,11 +25,11 @@ export const defaultSettings: AppSettings = {
   maintenanceMode: false,
   socialLinks: {
     youtube: 'https://youtube.com/@najmi_ff_experiment?si=Za92yXnG7VuE5Iul',
-    telegram: 'https://t.me/najmiffexperiment6',
+    telegram: 'https://t.me/Verucaaa',
     instagram: '',
     discord: '',
   },
-  adminEmail: 'najmi@gmail.com',
+  adminEmail: 'pp4412542@gmail.com',
 };
 
 export const defaultServers: Server[] = [
