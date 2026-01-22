@@ -4,14 +4,14 @@ import { AppSettings, Emote, Server, UsageStats } from '../types';
 
 // Firebase Configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyClxdO_hq6ML9NtVDYvlaEX-GB8J8L7ueE",
-  authDomain: "sb-emote-website.firebaseapp.com",
-  databaseURL: "https://sb-emote-website-default-rtdb.firebaseio.com",
-  projectId: "sb-emote-website",
-  storageBucket: "sb-emote-website.firebasestorage.app",
-  messagingSenderId: "331336043106",
-  appId: "1:331335643106:web:3f71d0ca18bd6af5649f3b",
-  measurementId: "G-X5KTJZ7S2T"
+  apiKey: "AIzaSyA4PKKRh3Ei7UyqzbnWWGJBixClClNYK1Y",
+  authDomain: "we-ff-d2a00.firebaseapp.com",
+  databaseURL: "https://we-ff-d2a00-default-rtdb.firebaseio.com",
+  projectId: "we-ff-d2a00",
+  storageBucket: "we-ff-d2a00.firebasestorage.app",
+  messagingSenderId: "183808765379",
+  appId: "1:183808765379:web:fec6c61e356570f32f6176",
+  measurementId: "G-X2P946T14N"
 };
 
 // Initialize Firebase
